@@ -1,0 +1,20 @@
+.title-component{
+    margin-top: 5%;
+    text-align: center;
+    color: #0275d8;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+}
+
+.form-table-container{
+    display: flex;
+    border-radius: 10px;
+    padding: 2% 4%;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 1%;
+}
+
+.form-button{
+    margin-top:5%
+}

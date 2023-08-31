@@ -1,0 +1,33 @@
+.form-title{
+    color: #0275d8;
+    font-family: 'Kanit', sans-serif;
+}
+
+.container-form-table{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-form{
+    font-family: 'Kanit', sans-serif;
+    display: flex;
+}
+
+.form-label-name{
+    margin-top: 15px;
+}
+
+.form-buttons-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.form-button{
+    margin-left: 15%;
+}
+
+.error-message {
+    font-size: 0.8rem;
+    color: red;
+}
+

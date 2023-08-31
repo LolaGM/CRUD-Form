@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuario 1",
+      "password1": "clave1",
+      "password2": "clave1",
+      "email": "usuario1@example.com",
+      "wantNotifications": true,
+      "country": "Croatia",
+      "city": "Zagreb"
+    },
+    {
+      "id": 2,
+      "name": "Usuario 2",
+      "password1": "clave2",
+      "password2": "clave2",
+      "email": "usuario2@example.com",
+      "wantNotifications": true,
+      "country": "France",
+      "city": "Paris"
+    },
+    {
+      "id": 3,
+      "name": "Usuario 3",
+      "password1": "clave2",
+      "password2": "clave2",
+      "email": "usuario3@example.com",
+      "wantNotifications": false,
+      "country": "Sri Lanka",
+      "city": "Sri Lanka"
+    },
+    {
+      "id": 5,
+      "name": "Maria",
+      "password1": "123456",
+      "password2": "123456",
+      "email": "maria@google.com",
+      "wantNotifications": false,
+      "country": "Spain",
+      "city": "Logroño"
+    },
+    {
+      "id": 7,
+      "name": "Elena",
+      "password1": "123456",
+      "password2": "123456",
+      "email": "elena@google.com",
+      "wantNotifications": false,
+      "country": "Luxembourg",
+      "city": "Estrasburgo"
+    },
+    {
+      "id": 10,
+      "name": "Paloma",
+      "password1": "123456",
+      "password2": "123456",
+      "email": "palo@google.com",
+      "wantNotifications": false,
+      "country": "Mexico",
+      "city": "Mexico DF"
+    },
+    {
+      "id": 11,
+      "name": "Carmen",
+      "password1": "123456",
+      "password2": "123456",
+      "email": "carmen@google.com",
+      "wantNotifications": true,
+      "country": "China",
+      "city": "Beijing"
+    }
+  ]
+}
