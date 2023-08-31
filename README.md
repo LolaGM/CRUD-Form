@@ -1,5 +1,23 @@
 # CRUD
 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
+   <img style="width:1000px; height:250px; margin:12px" src="https://github.com/LolaGM/RXJS/assets/116545851/b94c1512-5817-4035-8848-3bd7f17cefbb">
+</div>
+
+
+## CRUD Form
+CRUD using observables RXJS with components form and table connected
+
+
+## Basic installation
+
+<ol>
+    <li>Once the code is cloned, use the command <code>npm install</code> to have all necessary modules</li>
+    <li>After installing the node_modules, run <code>ng s -o</code> command. For this command to work, remember to run this command in the same directory where the <code>package.json</code> is located</li>
+    <li>You need to run the backend part using <code>npm run backend </code> and use <code>npm install -g json-server</code></li>
+    <li>Sweet Alert 2 and Bootstrap are used for UX / UI </li>
+</ol>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
