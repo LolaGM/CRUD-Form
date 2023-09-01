@@ -1,7 +1,7 @@
 # CRUD
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
-   <img style="width:1000px; height:250px; margin:12px" src="https://github.com/LolaGM/RXJS/assets/116545851/b94c1512-5817-4035-8848-3bd7f17cefbb">
+   <img style="width:1000px; height:450px; margin:12px" src="https://github.com/LolaGM/CRUD-Form/assets/116545851/94d0de4f-396f-49c7-a913-9c43a1bd9b71">
 </div>
 
 
