@@ -18,6 +18,21 @@ CRUD using observables RXJS with components form and table connected
     <li>Sweet Alert 2 and Bootstrap are used for UX / UI </li>
 </ol>
 
+## Create a JSON server
+
+<p>JSON Server is an npm package that allows you to create REST JSON web service, backed by a simple database. It is created for front end developers and helps to perform all CRUD operations without a proper backend prototype or structure. A valid json file will suffice.</p>
+
+<ol>
+    <li>Run the below command in the terminal.<code>npm install Json-server</code></li>
+    <li>Create a sample json file with data: <code>db.json</code>. Make sure of the location of the file: Don’t create mock data files under /src/assets/ or /src/app/ folder.
+.</li>
+    <li>Run the server: use the command line <code>json-server –watch db.json</code> or you can add this line to the package.json file: <code>"json:server": "json-server --watch db.json",
+</code>and run the server <code>npm run json:server
+</code></li>
+<li>Your JSON Server will be running on port 3000. The below data will be shown in the terminal
+</li>
+</ol>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
