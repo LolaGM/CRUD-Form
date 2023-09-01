@@ -72,21 +72,25 @@ export class FormComponent implements OnInit,OnDestroy{
       if (user) {
         this.formService.updateUser(updatedUser).subscribe(
           (response) => {
-            console.log('Usuario actualizado:', response);
+            alert('Usuario actualizado');
             this.formService.setUser(null); 
+            this.myForm.reset();
           },
           (error) => {
-            console.error('Error al actualizar el usuario:', error);
+            alert('Error al actualizar usuario');
+            
           }
         );
       } else {
         this.formService.addUser(updatedUser).subscribe(
           (response) => {
-            console.log('Usuario creado:', response);
+            alert('Usuario actualizado');
             this.formService.setUser(null); 
+            this.myForm.reset();
           },
           (error) => {
-            console.error('Error al crear el usuario:', error);
+
+            alert('Error al crear usuario');
           }
         );
       }
